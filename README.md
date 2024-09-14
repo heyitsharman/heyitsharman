@@ -8,7 +8,7 @@
 
 - 🔭 I'm currently working on **multiple front-end projects**
 
-- 🌱 I’m currently learning **javascript,c++,and React.js**
+- 🌱 I’m currently learning **javascript,c++,and React**
 
 - 📫 How to reach me **harmankaur0779@gmail.com**
 
