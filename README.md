@@ -1,12 +1,16 @@
 # 💫 About Me:
 🔭 I'm currently working on **multiple front-end projects**<br><br>🌱 I’m currently learning **JavaScript, Java, and React**<br><br>📫 How to reach me **harmankaur0779@gmail.com**
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<br><br>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_hrmnnn._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<br><br>
+
 
 ## 📸 Here's a Peek Into My Journey!
 <!-- Add your GIF or image here -->
