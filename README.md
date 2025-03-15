@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on **multiple front-end projects**<br><br>🌱 I’m currently learning **JavaScript, Java, and React**<br><br>📫 How to reach me **harmankaur0779@gmail.com**
+🔭 I'm currently working on **react framework based projects**<br><br>🌱 I’m currently learning **JavaScript, Java, and React**<br><br>📫 How to reach me **harmankaur0779@gmail.com**
 
 
 ## 🌐 Socials:
