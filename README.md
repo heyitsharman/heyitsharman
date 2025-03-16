@@ -39,6 +39,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 <!-- Add another GIF or image here -->
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXBoMWM2dWdlNTU1bmY4cnYxdmg1ZjI2OWd4NWt6YzBoNzM5ZDc5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2QZSoIjDsMph1K5G/giphy.gif" alt="Workspace GIF" width="400"/>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
