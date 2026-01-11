@@ -1,28 +1,13 @@
----
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed" width="900">
+<br><br>
 
-## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=heyitsharman&theme=neon&hide_border=false&include_all_commits=false&count_private=false)
+👉 Check my repositories !
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=heyitsharman&theme=neon&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heyitsharman&theme=neon&hide_border=false&layout=compact)
-
----
-
-## 📌 Featured Projects  
-🔹 **Job Listing Website (HTML, CSS, JS, React)**  
-🔹 **React Job Portal**  
-🔹 **Smart Door Lock System (ESP8266 + IoT)**  
-🔹 **Restaurant Management System (Java + DSA)**  
-
-👉 Check my repositories for more!
-
----
 
 ## 📫 Connect With Me  
 - 💼 GitHub: [@heyitsharman](https://github.com/heyitsharman)  
 - 🌐 Portfolio: *Coming Soon*  
-- 📧 Email: *Add if you want*
+- 📧 Email: *harmankaur0779@gmail.com*
 
 ---
