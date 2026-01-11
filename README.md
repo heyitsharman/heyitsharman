@@ -1,17 +1,13 @@
-<h2>Hey 👋 I'm Harman</h2>
-<p>Into web dev 💻, art 🎨, and JAVA Programming.</p>
+<h2>Harman Kaur</h2>
+<p>Web developer in progress with a strong interest in Data Stuctures in JAVA (I like to make stuff mostly websites and art).</p>
 
-<img 
-  src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed" 
-  width="900" 
-  height="300"
-/>
+## 📊 GitHub Stats
 
-<br><br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=heyitsharman&show_icons=true&theme=neon)
 
-👉 <b>Check my repositories!</b>
+![GitHub Streak](https://streak-stats.demolab.com?user=heyitsharman&theme=neon)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heyitsharman&layout=compact&theme=neon)
 
 ## 📫 Connect With Me  
 - 💼 GitHub: [@heyitsharman](https://github.com/heyitsharman)  
