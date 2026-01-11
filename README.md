@@ -1,13 +1,18 @@
 <h2>Harman Kaur</h2>
 <p>Web developer in progress with a strong interest in Data Stuctures in JAVA (I like to make stuff mostly websites and art).</p>
 
-## 📊 GitHub Stats
+## 🛠️ Tech Stack  
+**Languages:**  
+- C++, Java, JavaScript, Typescript, Python 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=heyitsharman&show_icons=true&theme=neon)
+**Frontend:**  
+- HTML, CSS, Bootstrap, React, Next.js 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=heyitsharman&theme=neon)
+**Backend & Tools:**  
+- Node.js, Express, MongodB
+- Git & GitHub, Postman
+- Linux (Bash Scripting), REST API's
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heyitsharman&layout=compact&theme=neon)
 
 ## 📫 Connect With Me  
 - 💼 GitHub: [@heyitsharman](https://github.com/heyitsharman)  
