@@ -1,5 +1,5 @@
 <h2>Harman Kaur</h2>
-<p>Web developer in progress with a strong interest in Data Stuctures in JAVA (I like to make stuff mostly websites and art).</p>
+<p>Web developer in progress with a strong interest in Data Stuctures in JAVA .</p>
 
 ## 🛠️ Tech Stack  
 **Languages:**  
