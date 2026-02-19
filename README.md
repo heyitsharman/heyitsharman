@@ -16,7 +16,6 @@
 
 ## 📫 Connect With Me  
 - 💼 GitHub: [@heyitsharman](https://github.com/heyitsharman)  
-- 🌐 Portfolio: <a href="https://my-portfolio-harmann.vercel.app/">click here!</a>
-- 📧 Email: <a href="mailto:harmankaur0779@gmail.com">harmankaur0779@gmail.com</a>
+
 
 ---
